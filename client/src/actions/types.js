@@ -1,0 +1,10 @@
+export const GET_ERRORS = "GET_ERRORS";
+export const USER_LOADING = "USER_LOADING";
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const GET_USERS = "GET_USERS";
+export const FETCHING_USERS = "FETCHING_USERS";
+export const GET_SITES = "GET_SITES";
+export const FETCHING_SITES = "FETCHING_SITES";
+export const GET_MERCHANTS = "GET_MERCHANTS";
+export const FETCHING_MERCHANTS = "FETCHING_MERCHANTS";
+ 
